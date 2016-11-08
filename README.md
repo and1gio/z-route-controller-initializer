@@ -1,6 +1,6 @@
 # z-route-controller-initializer
 
-attaches *routeController* to *app*
+attaches **routeController** to **app**
 
 * app
   * routeController
