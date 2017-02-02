@@ -1,7 +1,7 @@
 {
-    "name": "z-route-controller-initializer",
-    "description": "Z Route Controller Initializer",
-    "version": "0.0.3",
+    "name": "z-service-initializer",
+    "description": "Z Service Initializer",
+    "version": "0.0.1",
     "author": {
         "name": "Giorgi Maisuradze"
     },
@@ -17,5 +17,5 @@
     ],
     "dependencies": {
     },
-    "main": "z-route-controller-initializer.js"
+    "main": "z-service-initializer.js"
 }
